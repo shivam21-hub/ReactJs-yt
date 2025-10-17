@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+.card{
+  background-color: aqua;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.navbar{
+  background-color: #c9bbd5;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
