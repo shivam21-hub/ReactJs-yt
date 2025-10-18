@@ -1,10 +1,10 @@
 
 import React from 'react'
-import '../styles/Button.css'
+import styles from './Button.module.css'
 const Button = () => {
   return (
-    <div>
-       <div className='btn'>Mai hu ek button</div>
+    <div className={styles.btn}>
+       Mai button hu
     </div>
   )
 }
